@@ -27,7 +27,7 @@ SECRET_KEY = 'n@8r^-has4(1ds)wyv9+uln%yobl+h*(u2@w())7p#ymbv4^gg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['heyraji.pythonanywhere.com',]
 
 
 # Application definition
